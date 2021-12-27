@@ -19,3 +19,23 @@ int[] FillArray()
    
     return array;
 }
+int[] Dev2(int[] ArrayA)
+{
+    int[] ArrayB = new int[0];
+    int j = 0;
+    for (int i = 0; i < ArrayA.Length; i++)
+    {
+        if (ArrayA[i] > 8)
+        {
+            int lenght = ArrayB.Length;
+            Array.Resize(ref ArrayB, lenght + 1);
+            ArrayB[j] = ArrayA[i];
+            j++;
+
+        }
+
+    }
+    return (ArrayB); 
+}
+
+int[] ArrayA = FillArray();
