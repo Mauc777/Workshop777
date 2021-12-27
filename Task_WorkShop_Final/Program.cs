@@ -16,7 +16,7 @@ int[] FillArray()
     {
         array[i] = new Random().Next(0, 20);
     }
-   
+
     return array;
 }
 int[] Dev2(int[] ArrayA)
@@ -31,11 +31,36 @@ int[] Dev2(int[] ArrayA)
             Array.Resize(ref ArrayB, lenght + 1);
             ArrayB[j] = ArrayA[i];
             j++;
-
         }
-
     }
-    return (ArrayB); 
+    return (ArrayB);
 }
+void WriteArray(int[] ArrayA, int[] ArrayB)
 
+{
+    Console.Write("[");
+    for (int i = 0; i < ArrayA.Length; i++)
+    {
+        Console.Write(ArrayA[i]);
+        if (i != ArrayA.Length - 1)
+        {
+            Console.Write(", ");
+        }
+    }
+    Console.Write("] -> [");
+    for (int i = 0; i < ArrayB.Length; i++)
+    {
+        Console.Write(ArrayB[i]);
+        if (i != ArrayB.Length - 1)
+        {
+            Console.Write(", ");
+        }
+    }
+    Console.WriteLine("]");
+
+}
 int[] ArrayA = FillArray();
+WriteArray(ArrayA, Dev2(ArrayA));
+
+
+

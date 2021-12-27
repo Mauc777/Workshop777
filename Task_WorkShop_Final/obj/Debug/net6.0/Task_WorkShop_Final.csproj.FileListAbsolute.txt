@@ -1,0 +1,15 @@
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.csproj.AssemblyReference.cache
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.AssemblyInfoInputs.cache
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.AssemblyInfo.cs
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.csproj.CoreCompileInputs.cache
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\bin\Debug\net6.0\Task_WorkShop_Final.exe
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\bin\Debug\net6.0\Task_WorkShop_Final.deps.json
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\bin\Debug\net6.0\Task_WorkShop_Final.runtimeconfig.json
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\bin\Debug\net6.0\Task_WorkShop_Final.dll
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\bin\Debug\net6.0\ref\Task_WorkShop_Final.dll
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\bin\Debug\net6.0\Task_WorkShop_Final.pdb
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.dll
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\ref\Task_WorkShop_Final.dll
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.pdb
+C:\Users\Kozan\Desktop\WorkShop1.2\Workshop777\Task_WorkShop_Final\obj\Debug\net6.0\Task_WorkShop_Final.genruntimeconfig.cache
